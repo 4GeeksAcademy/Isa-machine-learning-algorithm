@@ -1,3 +1,6 @@
 __pycache__
 .env
 .learn
+/workspaces/Isa-machine-learning-algorithm/src/bank-marketing-campaign-data.csv
+/workspaces/Isa-machine-learning-algorithm/src/clean_bank_test.csv
+/workspaces/Isa-machine-learning-algorithm/src/clean_bank_train.csv
